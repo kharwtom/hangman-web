@@ -1,0 +1,62 @@
+{
+  "schema": 3,
+  "package": "hangman",
+  "entries": [
+    {
+      "family": "scene",
+      "id": "assets/models/characters/guardian",
+      "file": "scene.guardian.2bde6eba.fsceneb",
+      "stamp": "4697fd126571983b",
+      "source": "assets/models/characters/guardian.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/characters/phantom",
+      "file": "scene.phantom.7dddda2e.fsceneb",
+      "stamp": "cb4bf580b0ab4047",
+      "source": "assets/models/characters/phantom.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/characters/saboteur",
+      "file": "scene.saboteur.b4243819.fsceneb",
+      "stamp": "c32eb8dd5ceb86ae",
+      "source": "assets/models/characters/saboteur.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/characters/trickster",
+      "file": "scene.trickster.651c96f9.fsceneb",
+      "stamp": "c77f209618754110",
+      "source": "assets/models/characters/trickster.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/kaykit/knight",
+      "file": "scene.knight.938cb304.fsceneb",
+      "stamp": "9784cc7493d60257",
+      "source": "assets/models/kaykit/knight.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/kaykit/mage",
+      "file": "scene.mage.065bccfe.fsceneb",
+      "stamp": "8d45118af0c60bb1",
+      "source": "assets/models/kaykit/mage.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/kaykit/rogue",
+      "file": "scene.rogue.c253a3ee.fsceneb",
+      "stamp": "fe94a002c2d80bcc",
+      "source": "assets/models/kaykit/rogue.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/kaykit/rogue_hooded",
+      "file": "scene.rogue_hooded.a5690cc6.fsceneb",
+      "stamp": "27ce10fd56bf9d42",
+      "source": "assets/models/kaykit/rogue_hooded.glb"
+    }
+  ]
+}

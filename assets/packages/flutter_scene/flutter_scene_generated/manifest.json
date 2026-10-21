@@ -1,0 +1,118 @@
+{
+  "schema": 3,
+  "package": "flutter_scene",
+  "entries": [
+    {
+      "family": "material",
+      "id": "physical",
+      "file": "metal_desktop/material.physical.bdc990a6.index.json",
+      "stamp": "dc142268ef7a93ee",
+      "target": "metalDesktop"
+    },
+    {
+      "family": "material",
+      "id": "physical",
+      "file": "metal_ios/material.physical.1a34aec9.index.json",
+      "stamp": "fbf958c09d805e2d",
+      "target": "metalIos"
+    },
+    {
+      "family": "material",
+      "id": "physical",
+      "file": "opengl_es/material.physical.b3dd7c81.index.json",
+      "stamp": "11c73525aa4aa9b4",
+      "target": "openglEs"
+    },
+    {
+      "family": "material",
+      "id": "physical",
+      "file": "opengl_es_vulkan/material.physical.62485416.index.json",
+      "stamp": "31b8bb8b0ed5c641",
+      "target": "openglEs,vulkan"
+    },
+    {
+      "family": "material",
+      "id": "physical#shaderbundle",
+      "file": "metal_desktop/material.physical.bdc990a6.shaderbundle",
+      "stamp": "dc142268ef7a93ee",
+      "target": "metalDesktop"
+    },
+    {
+      "family": "material",
+      "id": "physical#shaderbundle",
+      "file": "metal_ios/material.physical.1a34aec9.shaderbundle",
+      "stamp": "fbf958c09d805e2d",
+      "target": "metalIos"
+    },
+    {
+      "family": "material",
+      "id": "physical#shaderbundle",
+      "file": "opengl_es/material.physical.b3dd7c81.shaderbundle",
+      "stamp": "11c73525aa4aa9b4",
+      "target": "openglEs"
+    },
+    {
+      "family": "material",
+      "id": "physical#shaderbundle",
+      "file": "opengl_es_vulkan/material.physical.62485416.shaderbundle",
+      "stamp": "31b8bb8b0ed5c641",
+      "target": "openglEs,vulkan"
+    },
+    {
+      "family": "material",
+      "id": "physical#sidecar",
+      "file": "metal_desktop/material.physical.bdc990a6.fmat.json",
+      "stamp": "dc142268ef7a93ee",
+      "target": "metalDesktop"
+    },
+    {
+      "family": "material",
+      "id": "physical#sidecar",
+      "file": "metal_ios/material.physical.1a34aec9.fmat.json",
+      "stamp": "fbf958c09d805e2d",
+      "target": "metalIos"
+    },
+    {
+      "family": "material",
+      "id": "physical#sidecar",
+      "file": "opengl_es/material.physical.b3dd7c81.fmat.json",
+      "stamp": "11c73525aa4aa9b4",
+      "target": "openglEs"
+    },
+    {
+      "family": "material",
+      "id": "physical#sidecar",
+      "file": "opengl_es_vulkan/material.physical.62485416.fmat.json",
+      "stamp": "31b8bb8b0ed5c641",
+      "target": "openglEs,vulkan"
+    },
+    {
+      "family": "shaderBundle",
+      "id": "base",
+      "file": "metal_desktop/shaderbundle.base.6e881853.shaderbundle",
+      "stamp": "d20e1120319e6584",
+      "target": "metalDesktop"
+    },
+    {
+      "family": "shaderBundle",
+      "id": "base",
+      "file": "metal_ios/shaderbundle.base.81884260.shaderbundle",
+      "stamp": "78a6f73462b69159",
+      "target": "metalIos"
+    },
+    {
+      "family": "shaderBundle",
+      "id": "base",
+      "file": "opengl_es/shaderbundle.base.d9f65064.shaderbundle",
+      "stamp": "e86cfc4fb0a910ae",
+      "target": "openglEs"
+    },
+    {
+      "family": "shaderBundle",
+      "id": "base",
+      "file": "opengl_es_vulkan/shaderbundle.base.dc37b66e.shaderbundle",
+      "stamp": "e4f917fbca072665",
+      "target": "openglEs,vulkan"
+    }
+  ]
+}

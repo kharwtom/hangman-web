@@ -102,7 +102,7 @@ break A}if("skills.trickster.title"===e){w="The Jester"
 break A}if("skills.trickster.name"===e){w="Scramble"
 break A}if("skills.trickster.effect"===e){w="Shuffles the opponent's keys."
 break A}if("skills.trickster.duration"===e)break A
-if("skills.trickster.passive"===e){w=y.y
+if("skills.trickster.passive"===e){w=y.G
 break A}if("skills.phantom.character"===e){w="Phantom"
 break A}if("skills.phantom.title"===e){w="The Veiled"
 break A}if("skills.phantom.name"===e){w="Veil"
@@ -121,7 +121,7 @@ break A}if("skills.guardian.name"===e){w="Aegis"
 break A}if("skills.guardian.effect"===e){w="Grants 2 shield charges."
 break A}if("skills.guardian.duration"===e){w="Charges stay until they block"
 break A}if("skills.guardian.passive"===e){w="Starts every word with 1 shield charge."
-break A}if("items.earnRule"===e){w=y.g
+break A}if("items.earnRule"===e){w=y.U
 break A}if("items.shieldRule"===e){w=y.r
 break A}if("items.keyboardLock.name"===e){w="Chains"
 break A}if("items.keyboardLock.effect"===e){w="Locks the opponent's keyboard."
@@ -449,7 +449,7 @@ return w===$?this.x=new A.bif():w},
 gmZ(){var w=this.y
 return w===$?this.y=new A.bid():w}}
 A.bi2.prototype={
-gK2(){return y.g},
+gK2(){return y.U},
 gFs(){return y.r},
 gtx(){var w=this.r
 return w===$?this.r=new A.bi4():w},
@@ -511,7 +511,7 @@ gd2(){return"The Jester"},
 gbh(){return"Scramble"},
 geA(){return"Shuffles the opponent's keys."},
 gdL(){return"Lasts 8 s"},
-gkx(){return y.y}}
+gkx(){return y.G}}
 A.bie.prototype={
 gnm(){return"Phantom"},
 gd2(){return"The Veiled"},
@@ -737,6 +737,6 @@ v(A.bi5,B.aec)
 u(B.qK,[A.bkQ,A.bkq,A.bkr,A.bks,A.bkD,A.bkJ,A.bkK,A.bkL,A.bkM,A.bkN,A.bkO,A.bkP,A.bkt,A.bku,A.bkv,A.bkw,A.bkx,A.bky,A.bkz,A.bkA,A.bkB,A.bkC,A.bkE,A.bkF,A.bkG,A.bkH,A.bkI])
 w(A.aqF,B.ma)})()
 B.bGe(b.typeUniverse,JSON.parse('{"aeq":{"jM":[],"ma":["jX","jM"]}}'))
-var y={p:" lost all 8 hearts and was hanged on the last word.",r:"A shield blocks one attack skill or item. Blocked attacks still show the block on both screens.",V:"Choose your fighter before looking for an opponent",g:"Earned by 3 correct letters in a row. You hold one item at a time.",N:"No internet connection. Check your connection and try again.",W:"Plants 2 fake letters in the opponent's word.",B:"Send the room code to a friend to fill this seat",S:"Share this code with your friend so they can join",H:"Swaps lost hearts with the opponent. Only when you have lost more.",n:"Swaps the opponent's correct and wrong key colours.",L:"That room does not exist. Check the room code.",m:"The Hourglass works only when you have lost more hearts",i:"The first wrong guess of every word costs no heart.",R:"The game starts as soon as another player is ready, with words from all categories.",e:"The match ended before any word was settled.",y:"The skill charges in 3 correct letters instead of 4.",X:"There are no characters or items to show. Go back to the lobby and open it again.",O:"We could not complete that. Please try again.",z:"You are not signed in. Please reopen the app.",u:"Your keyboard is locked until the chains fall",I:"Your opponent lost every heart and was hanged"}
+var y={p:" lost all 8 hearts and was hanged on the last word.",r:"A shield blocks one attack skill or item. Blocked attacks still show the block on both screens.",V:"Choose your fighter before looking for an opponent",U:"Earned by 2 correct letters in a row. You hold one item at a time.",N:"No internet connection. Check your connection and try again.",W:"Plants 2 fake letters in the opponent's word.",B:"Send the room code to a friend to fill this seat",S:"Share this code with your friend so they can join",H:"Swaps lost hearts with the opponent. Only when you have lost more.",n:"Swaps the opponent's correct and wrong key colours.",L:"That room does not exist. Check the room code.",m:"The Hourglass works only when you have lost more hearts",i:"The first wrong guess of every word costs no heart.",R:"The game starts as soon as another player is ready, with words from all categories.",e:"The match ended before any word was settled.",G:"The skill charges in 2 correct letters instead of 3.",X:"There are no characters or items to show. Go back to the lobby and open it again.",O:"We could not complete that. Please try again.",z:"You are not signed in. Please reopen the app.",u:"Your keyboard is locked until the chains fall",I:"Your opponent lost every heart and was hanged"}
 var x={g:B.M("i"),c:B.M("tc<jX,jM>")}};
-(a=>{a["4cCCET0Qv+pnPBMnNLi0DhcfCu0="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["ZqVi10JIUFnEAWMBJN5e++akajQ="]=a.current})($__dart_deferred_initializers__);

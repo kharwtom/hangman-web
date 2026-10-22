@@ -1,12 +1,12 @@
 {
-    "name": "hangman",
-    "short_name": "hangman",
+    "name": "Hangman 1v1",
+    "short_name": "Hangman",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#4E1019",
+    "background_color": "#1C1614",
     "theme_color": "#C9A227",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "description": "แข่งทายคำ 1 ต่อ 1 แบบเรียลไทม์ พร้อมสกิลป่วนคู่แข่ง ธีมภาพวาดยุคเรเนซองส์",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {

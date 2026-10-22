@@ -31,6 +31,17 @@
 
   <title>hangman</title>
   <link rel="manifest" href="manifest.json">
+
+  <!-- The browser starts the 4.7 MB app script now instead of when
+       flutter_bootstrap.js has run, and opens the connection to the CDN that
+       serves CanvasKit before the engine asks for it. -->
+  <link rel="preload" href="main.dart.js" as="script">
+  <link rel="preconnect" href="https://www.gstatic.com" crossorigin>
+
+  <!-- First paint is charcoal (CoreColor.charcoalLift), not white. -->
+  <style>
+    html, body { background-color: #1C1614; margin: 0; }
+  </style>
 </head>
 <body>
   <!--
